@@ -53,7 +53,8 @@ I am a fresher VLSI Design Verification engineer currently undergoing hands-on D
 
 ## 🎓 Education & Training
 
-- **B.Tech** — Siddhartha Institute of Engineering and Technology
+- **B.Tech** — Siddhartha Institute of Engineering and Technology, Ibrahimpatnam
+- **CGPA** - 7.05/10
 - **DV Training** — VLSIGURU, Bengaluru *(Sept 2025 – Present)*
   - Hands-on UVM testbench development
   - Protocol verification (AXI)
